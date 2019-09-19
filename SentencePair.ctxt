@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SentencePair
+comment0.text=\r\n\ This\ is\ a\ sentence\ pair.\r\n\r\n\ @author\ Wang,\ Talia\r\n\ @version\ 2017-06-01\r\n
+comment1.params=english\ french
+comment1.target=SentencePair(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ sentence\ pair\ given\ \r\n\ its\ english\ and\ french\ sentences.\r\n\ \r\n\ @param\ english\ english\ sentence\r\n\ @param\ french\ french\ sentence\r\n
+comment2.params=
+comment2.target=boolean\ isCorrectlyTranslated()
+comment2.text=\r\n\ Returns\ whether\ this\ sentence\ pair\ \r\n\ has\ been\ correctly\ translated.\r\n\ \r\n\ @return\ whether\ this\ sentence\ pair\ \r\n\ has\ been\ correctly\ translated.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getEnglish()
+comment3.text=\r\n\ Returns\ the\ english\ sentence\ of\ this\ sentence\ pair.\r\n\ \r\n\ @return\ the\ english\ sentence\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFrench()
+comment4.text=\r\n\ Returns\ the\ french\ sentence\ of\ this\ sentence\ pair.\r\n\ \r\n\ @return\ the\ french\ sentence\r\n
+comment5.params=value
+comment5.target=void\ setTranslated(boolean)
+comment5.text=\r\n\ Sets\ whether\ this\ sentence\ pair\ \r\n\ has\ been\ correctly\ translated.\r\n\ \r\n\ @param\ value\ true\ or\ false\r\n
+comment6.params=english
+comment6.target=void\ setEnglish(java.lang.String)
+comment6.text=\r\n\ Sets\ the\ english\ sentence\ of\ this\ pair.\r\n\ \r\n\ @param\ english\ english\ sentence\r\n
+comment7.params=french
+comment7.target=void\ setFrench(java.lang.String)
+comment7.text=\r\n\ Sets\ the\ french\ sentence\ of\ this\ pair.\r\n\ \r\n\ @param\ french\ english\ sentence\r\n
+numComments=8
